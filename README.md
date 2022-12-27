@@ -1,2 +1,2 @@
 # vue
-vue 프로젝트 한거
+vue no korean supported
